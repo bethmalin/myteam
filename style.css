@@ -5,6 +5,10 @@ body {
   margin-bottom: 20px;
 }
 
+body {
+  background-color: lightblue
+}
+
 h1.header {
   font-family: 'Nunito', sans-serif;
   font-size: 36px;
